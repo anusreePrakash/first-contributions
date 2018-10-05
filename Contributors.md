@@ -121,6 +121,7 @@ bilalsiraj
 - [Joydeep Halder](https://github.com/halderjoydeep)
 - [Brooke Dobbins](https//github.com/B1Dobbs)
 - [Marc Jonkers](https://github.com/mevrouwdevries)
+- [hnarasaki](https://github.com/hnarasaki)
 - [Marco Jesus](https://github.com/marcojesus)
 - [Zach Capshaw](https://github.com/zcapshaw)
 - [Aayush Sharma](https://github.com/andy1771)
@@ -6709,3 +6710,4 @@ Hassan Khalailla
 - [kmimk](https://github.com/kmimk)
 - [alemelis](https://github.com/alemelis)
 - [David Marques](https://github.com/davidmoura07)
+- [Dan Young](https://github.com/ytmnd)
